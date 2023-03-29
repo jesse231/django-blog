@@ -2,3 +2,4 @@ lib
 bin
 .env
 pyvenv.cfg
+blog_project/db.sqlite3
